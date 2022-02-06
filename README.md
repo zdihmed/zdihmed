@@ -1,0 +1,2 @@
+- 👋 Hi, I'm Ahmed El ouadrhiri, Ph.D. in compter science and networking. Currently, I am working on machine and deep learning applied to image processing and model forecasting.
+- 📫 Email: ahmedelouadrhiri@gmail.com
